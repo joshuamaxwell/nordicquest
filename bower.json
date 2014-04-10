@@ -1,10 +1,21 @@
 {
   "name": "nordicquest",
-  "private": true,
+  "version": "0.0.1",
+  "authors": [
+    "Daniel Donaldson",
+    "Joshua Maxwell",
+    ],
+  "main": "app/styles/main.scss",
+  "ignore": [
+      "test",
+      "gulpfile.js",
+      "**/.*",
+      "**/*.json",
+      "**/*.html"
+    ],
   "dependencies": {
     "bootstrap-sass": "twbs/bootstrap-sass#~3.1.0",
-    "modernizr": "~2.6.2",
-    "jquery": "~1.11.0"
+    "modernizr": "~2.6.2"
   },
   "devDependencies": {}
 }
