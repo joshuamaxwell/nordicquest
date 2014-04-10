@@ -1,12 +1,13 @@
 {
   "name": "nordicquest",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "Daniel Donaldson",
     "Joshua Maxwell"
     ],
   "main": "app/styles/main.scss",
   "ignore": [
+      "app/scripts",
       "test",
       "gulpfile.js",
       "**/.*",
