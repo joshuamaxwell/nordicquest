@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "authors": [
     "Daniel Donaldson",
-    "Joshua Maxwell",
+    "Joshua Maxwell"
     ],
   "main": "app/styles/main.scss",
   "ignore": [
